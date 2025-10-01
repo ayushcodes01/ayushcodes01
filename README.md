@@ -1,7 +1,7 @@
 <!-- Profile README for ayushcodes01 -->
 
 <h1 align="center">
-  Hey there 👋, I'm <span style="color:#38BDF8">Ayush Chauhan</span>
+  Hey there 👋, I'm <span style="color:#38BDF8">Ayush Chauhan :)</span>
 </h1>
 
 <h3 align="center">
@@ -12,7 +12,7 @@
 
 ### 🌟 About Me
 - 💻 Passionate **Frontend Developer**  
-- 🌱 Exploring **React, Tailwind, Python & ML**  
+- 🌱 Exploring **React, Tailwind, ML**  
 - 🚀 Love building sleek, responsive web apps  
 - 🎯 Open to **collaboration on open-source projects**  
 - ⚡ Fun fact: I debug with ☕ and music 🎧  
@@ -57,9 +57,9 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ayush-chauhan-935926214/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:akchauhan29feb@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
+  <a href="https://x.com/AkChauhan6514"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white" /></a>
 </p>
 
 ---
