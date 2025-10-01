@@ -42,7 +42,7 @@
 ---
 
 ### 🚀 Featured Projects
-- 🔗 [Portfolio Website](https://github.com/ayushcodes01/portfolio) – Personal portfolio with animations  
+- 🔗 [Portfolio Website](https://ayushcodes01.github.io/PersonalPortfolio/) – Personal portfolio with animations  
 - 🔗 [E-commerce UI](https://github.com/ayushcodes01/ecommerce) – Storefront with cart & wishlist  
 - 🔗 [Python API](https://github.com/ayushcodes01/python-api) – Flask-based REST API  
 
@@ -50,7 +50,7 @@
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/ayushcodes01/ayushcodes01/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/ayushcodes01/ayushcodes01/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
 </p>
 
 ---
